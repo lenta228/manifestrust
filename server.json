@@ -9,7 +9,7 @@
             "Map": "Procedural Map",
             "GameVersion": 2398,
             "Players": 0,
-            "MaxPlayers": 200,
+            "MaxPlayers": 100,
             "Queued": 0,
             "Joining": 0,
             "EntityCount": 0,
