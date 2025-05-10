@@ -1,1 +1,23 @@
-46.174.52.57:10027
+{
+    "Servers": [
+        {
+            "Address": "46.174.52.57:10027",
+            "ConnectionPort": 10027,
+            "GamePort": 10027,
+            "LastSeen": "0001-01-01T00:00:00",
+            "Name": "DRAGORUST",
+            "Map": "Procedural Map",
+            "GameVersion": 2398,
+            "Players": 0,
+            "MaxPlayers": 200,
+            "Queued": 0,
+            "Joining": 0,
+            "EntityCount": 0,
+            "Tags": [
+                "vanilla"
+            ],
+            "Official": true,
+            "Modded": false
+        }
+    ]
+}
