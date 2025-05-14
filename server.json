@@ -1,23 +1,63 @@
 {
-    "Servers": [
+    "ManifestVersion": 3,
+    "Date": "2022-12-05T14:52:23.7519698Z",
+    "News": {
+        "Blogs": [
+            {
+                "Date": "2022-10-20T07:17:00",
+                "ShortName": "bigupdate-2023",
+                "Title": "Глобальное декабрьское обновление",
+                "HeaderImage": "https://files.facepunch.com/Alistair/10/20/2v24f1/Ko-YNOaE.jpg",
+                "SummaryHtml": "тест",
+                "Url": "https://rust.facepunch.com/blog/halloween-2022/",
+                "Tags": "DEVBLOG"
+            }
+        ]
+    },
+    "Administrators": [
         {
-            "Address": "46.174.52.57:10027",
-            "ConnectionPort": 10027,
-            "GamePort": 10027,
-            "LastSeen": "0001-01-01T00:00:00",
-            "Name": "DRAGORUST",
-            "Map": "Procedural Map",
-            "GameVersion": 2398,
-            "Players": 0,
-            "MaxPlayers": 100,
-            "Queued": 0,
-            "Joining": 0,
-            "EntityCount": 0,
-            "Tags": [
-                "vanilla"
-            ],
-            "Official": true,
-            "Modded": false
+            "UserId": "76561197960279927",
+            "Level": "Administrator"
         }
-    ]
+    ],
+    "Heroes": [],
+    "SentryUrl": "https://6975b41a59924b48bac4fa8a40117a2d:01fd52e3df8c48488e2d90fcf0634f2e@sentry.io/51079",
+    "DatabaseUrl": "https://api.facepunch.com/api/public/database/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "FeedbackUrl": "https://api.facepunch.com/api/public/feedback/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "ReportUrl": "https://api.facepunch.com/api/public/feedback/report/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "LeaderboardUrl": "https://api.facepunch.com/api/public/leaderboard/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "BenchmarkUrl": "https://api.facepunch.com/api/public/benchmark/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "AccountUrl": "https://api.facepunch.com/api/public/account/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "Servers": {
+        "Official": [
+            {
+                "Address": "s1.hks.network",
+                "Port": 10027,
+                "Tags": "DRAGORUST | X25"
+            }
+        ],
+        "Banned": [
+            "5.42.211.21:35010",
+            "194.93.2.148:35001",
+            "65.21.137.102:28043",
+            "46.174.52.57:10029",
+            "46.174.52.57:10012",
+            "62.122.215.239:10005",
+            "46.174.52.57:10007"
+        ]
+    },
+    "Metadata": {
+        "LoadingScreens": [
+            "https://files.facepunch.com/errn/1b0111b1/December22UpdateLoader.jpg"
+        ],
+        "BlockedServers": [
+            "5.42.211.21",
+            "194.93.2.148",
+            "65.21.137.102",
+            "46.174.52.57",
+            "62.122.215.239"
+        ],
+        "TrophyPages": [],
+        "RadioStations": []
+    }
 }
