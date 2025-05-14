@@ -31,7 +31,7 @@
     "Servers": {
         "Official": [
             {
-                "Address": "s1.hks.network",
+                "Address": "46.174.52.57:10027",
                 "Port": 10027,
                 "Tags": "DRAGORUST | X25"
             }
